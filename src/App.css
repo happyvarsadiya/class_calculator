@@ -1,0 +1,19 @@
+.btn input{
+  padding: 20px;
+  margin: 5px;
+} 
+.main_div{
+  margin: 20px;
+}
+.text input{
+  margin: 20px;
+  padding: 10px;
+}
+.main_div{
+  background-color: rgb(203, 220, 220);
+  width: 18%;
+  padding: 20px;
+}
+.cal{
+  text-align: center;
+}
